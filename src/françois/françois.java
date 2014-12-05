@@ -13,12 +13,14 @@ public class françois{
     static int i = 0;
     
     public static void main (String[] args){
-        System.out.println("Hello world");
+        System.out.println("Hello françois how are you?");
+        System.out.println("put put push ollaaaaaa");
         Lapin lap = new Lapin("Clément", 7);
         while(i<=10){
             lap.crier();
             i = i + 1;
         }
+        System.out.println("coucou cava?");
     }
        
     
